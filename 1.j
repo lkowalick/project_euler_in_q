@@ -12,4 +12,5 @@ NB.             /   \
 NB.          3&|    5&|
 NB.           |      |
 NB.           L      L
+NB.
 NB. where L is i. 1000
